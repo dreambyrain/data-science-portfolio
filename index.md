@@ -47,6 +47,9 @@ Brazil (2,377) come first, ahead of China (2,122).
 
 * **Repository:** [github.com/dreambyrain/data-science-project](https://github.com/dreambyrain/data-science-project)
 * **Status:** completed
+* **Dataset and licence:** GeoNames `cities15000` (CC BY 4.0) and Natural Earth country
+  boundaries (public domain). Both are downloaded by the notebook, so no data is redistributed
+  on this site.
 * **Main limitation:** GeoNames is volunteered data rather than a census, and the place list is
   only complete where contributors have been active. Brazil ranking above China is the clearest
   symptom, so the country counts measure how many places are *mapped*, not how many towns a
